@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVPTest</string>
+    <string name="textView">TextView</string>
+    <string name="button">Get String</string>
+    <string name="send_string">Send String</string>
+    <string name="enter_string_here">Enter String Here</string>
+</resources>
